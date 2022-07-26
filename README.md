@@ -1,3 +1,9 @@
+# Life is Beautiful
+## Enjoy it while you are here
+### Don't wait for approval from others
+#### Time does not wait for anyone
+##### Eat healthy
+###### Exercise daily
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
